@@ -1,0 +1,11 @@
+# To create database
+CREATE DATABASE testdb;
+
+To list databases
++l
+
+To connect to new database
+\c <database name>
+
+To show tables
+\dt
