@@ -1,0 +1,2 @@
+create user myuser with encrypted password 'mypass';
+GRANT SELECT ON ALL TABLES IN SCHEMA public TO user;
