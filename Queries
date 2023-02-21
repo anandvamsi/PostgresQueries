@@ -1,3 +1,6 @@
+To connect to postgreSQL
+psql "postgres://postgres:wmFuXXXXX@XXXXXX.us-west-2.rds.amazonaws.com:5432/cloudqXX"
+
 # To create database
 CREATE DATABASE testdb;
 
@@ -14,3 +17,5 @@ To connect to new database
 
 To show tables
 \dt
+
+\q to quit
