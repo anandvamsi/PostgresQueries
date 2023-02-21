@@ -1,8 +1,13 @@
 # To create database
 CREATE DATABASE testdb;
 
-To list databases
-+l
+
+#To list all the databases
+\l
+
+To Drop the database
+Drop database <DBname>;
+
 
 To connect to new database
 \c <database name>
